@@ -22,7 +22,7 @@ jobs:
           #username: ${{ secrets.DOCKERHUB_USERNAME }}
           username: naveenbn123
           #password: ${{ secrets.DOCKERHUB_TOKEN }}
-          password: Naveenbn@123
+          password: dckr_pat_w_91aiCWq-Uqaf9I736cximtJcg
       -
         name: Build and push
         uses: docker/build-push-action@v3
